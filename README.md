@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashu1007
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++,java,python
+- 🌱 I’m currently learning c,c++,c#,java,python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sshashu777@gmail.com
 
