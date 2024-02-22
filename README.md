@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shashu1007
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++,c#,java,python
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in problem solving ,design and development 
+- 🌱 I’m currently learning Java Spring ,Angular.js
+- 💞️ I’m looking to collaborate on MicroServices
 - 📫 How to reach me sshashu777@gmail.com
 
 <!---
