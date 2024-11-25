@@ -1,7 +1,7 @@
   - 👋 Hi, I’m @Shashank1007
   - Jr. Software Engineer at Suktha Solutions Pvt Ltd banglore
   - 👀 I’m interested in problem solving ,design and development 
-  - 🌱 I’m currently working on  java Spring boot , Angular (Typescript) ,MySql  and AWS cloud hosting. 
+  - 🌱 I’m currently working on  java (Spring boot) , Angular (Typescript) ,MySql  and AWS cloud hosting. 
   - 💞️ I’m looking to collaborate on MicroServices
   - 📫 How to reach me sshashu777@gmail.com
   
